@@ -1,0 +1,20 @@
+# Build output
+build/
+dist/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Runtime files
+config.ini
+*.log
+startup.txt
+tray.log
+
+# Release archives (attach them to GitHub Releases instead)
+release/
+*.zip
+*.7z
